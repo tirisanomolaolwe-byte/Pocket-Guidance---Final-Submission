@@ -1,0 +1,36 @@
+-keep class j$.time.Duration {
+  public int compareTo(j$.time.Duration);
+  public int getNano();
+  public long getSeconds();
+  public static j$.time.Duration ofMillis(long);
+  public static j$.time.Duration ofSeconds(long, long);
+  public long toMillis();
+  j$.time.Duration ZERO;
+}
+-keep class j$.time.Instant {
+  public long toEpochMilli();
+}
+-keep class j$.time.LocalDate {
+  public java.lang.String format(j$.time.format.DateTimeFormatter);
+  public j$.time.LocalDate minusDays(long);
+  public j$.time.LocalDate minusMonths(long);
+  public static j$.time.LocalDate now();
+  public static j$.time.LocalDate parse(java.lang.CharSequence, j$.time.format.DateTimeFormatter);
+  public j$.time.LocalDate withDayOfMonth(int);
+}
+-keep class j$.time.TimeConversions {
+  public static java.time.Duration convert(j$.time.Duration);
+  public static j$.time.Duration convert(java.time.Duration);
+  public static j$.time.Instant convert(java.time.Instant);
+}
+-keep class j$.time.format.DateTimeFormatter {
+  public static j$.time.format.DateTimeFormatter ofPattern(java.lang.String);
+  j$.time.format.DateTimeFormatter ISO_DATE;
+}
+-keep enum j$.time.temporal.ChronoUnit {
+  public j$.time.Duration getDuration();
+  j$.time.temporal.ChronoUnit MILLIS;
+}
+-keep class j$.util.DesugarTimeZone {
+  public static java.util.TimeZone getTimeZone(java.lang.String);
+}

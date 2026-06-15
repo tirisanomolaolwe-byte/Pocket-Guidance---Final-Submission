@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/item_badge.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/item_badge.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_category.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_category.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_reports.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_reports.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_view_expenses.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_view_expenses.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_earn.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_earn.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_dashboard.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/item_transaction.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/item_transaction.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/bottomsheet_add_group.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/bottomsheet_add_group.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_rewards.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_rewards.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/item_course.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/item_course.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/bottom_nav.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/bottom_nav.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_onboarding.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/item_quiz_answer.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/item_quiz_answer.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/item_budget.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/item_budget.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/item_category.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_profile.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_budgets.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_budgets.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_receipt_view.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_receipt_view.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_forgot_password.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_splash.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_goals.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_goals.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/item_goal.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/item_goal.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_signup.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_add_expense.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_add_expense.xml"
+    },
+    {
+        "merged": "com.pocketguidance.app-mergeReleaseResources-43:/layout/activity_login.xml",
+        "source": "com.pocketguidance.app-main-45:/layout/activity_login.xml"
+    }
+]

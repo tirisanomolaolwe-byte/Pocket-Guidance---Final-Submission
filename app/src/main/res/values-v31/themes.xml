@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PocketGuidance.Splash" parent="Theme.SplashScreen">
+
+        <!-- Full-bleed background colour of the splash screen -->
+        <item name="windowSplashScreenBackground">@color/primary</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/primary</item>
+        <item name="windowSplashScreenAnimationDuration">800</item>
+        <item name="postSplashScreenTheme">@style/Theme.PocketGuidance</item>
+
+    </style>
+</resources>

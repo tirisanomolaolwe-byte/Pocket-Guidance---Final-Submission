@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocket Guidance</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="description">Description (optional)</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Sign Out</string>
+    <string name="reports_title">Reports</string>
+    <string name="spending_analysis">Spending Analysis</string>
+    <string name="monthly_spending_vs_goals">Monthly Spending vs Goals</string>
+    <string name="spending_by_category">Spending by Category</string>
+    <string name="performance_summary">Performance Summary</string>
+    <string name="set_monthly_spending_goals">Set Monthly Spending Goals</string>
+    <string name="from_label">From: %s</string>
+    <string name="to_label">To: %s</string>
+    <string name="filter">Filter</string>
+    <string name="update_goals">Update Goals</string>
+    <string name="transactions_title">Transactions</string>
+    <string name="filter_by_date">Filter by Date</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="all_time">All Time</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="rewards_title">Rewards &amp; Gamification</string>
+    <string name="earn_learn_title">Earn &amp; Learn</string>
+    <string name="expenses_format">Expenses: %s</string>
+    <string name="income_format">Income: %s</string>
+    <string name="transaction_count_format">%d transactions</string>
+    <string-array name="currencies">
+        <item>R (ZAR)</item>
+        <item>$ (USD)</item>
+        <item>€ (EUR)</item>
+        <item>£ (GBP)</item>
+    </string-array>
+    <string-array name="currency_codes">
+        <item>R</item>
+        <item>$</item>
+        <item>€</item>
+        <item>£</item>
+    </string-array>
+
+</resources>
+
