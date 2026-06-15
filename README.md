@@ -218,7 +218,12 @@ This feature helps users understand their financial habits and encourages better
 
 Test reports are saved to `app/build/reports/tests/`.
 
----
+### Build APK
+```
+Build → Build Bundle(s) / APK(s) → Build APK(s)
+```
+APK will be in `app/build/outputs/apk/debug/`
+
 
 ## GitHub Actions CI
 
