@@ -1,4 +1,4 @@
-# Pocket Guidance 
+# Pocket Guidance -  A comprehensive personal finance management app built in Kotlin for Android, featuring expense tracking, budget management, savings goals, shared expense splitting, and a gamified financial learning system.**
 
 A personal budgeting Android app built with Kotlin, Room DB, and MPAndroidChart.
 
@@ -7,10 +7,51 @@ A personal budgeting Android app built with Kotlin, Room DB, and MPAndroidChart.
 ![CI](https://github.com/tirisanomolaolwe-byte/Pocket-Guidance-2/actions/workflows/android_ci.yml/badge.svg)
 
  **[Watch the full app demo on YouTube](https://youtu.be/v5Hv45jkJYw)**
+ 
+ # 📸 Screenshots
 
  ![Login and Signup](https://github.com/user-attachments/assets/8499aed8-985a-4d62-80f2-f811ee3d81ad)
+ 
+ ## Dashboard
 
-Pocket Guidance
+![Dashboard](https://github.com/user-attachments/assets/53059c23-b2b5-47bd-b974-d919a8c4ba25)
+
+## Add Transactions
+
+![Add Transactions](https://github.com/user-attachments/assets/af67a445-3300-406d-9ca0-f0efe17a36fa)
+
+## Categories
+
+![Categories](https://github.com/user-attachments/assets/f54e2732-f183-4eed-b3a6-8a7e9d9ca30f)
+
+## Goals
+
+![Goals](https://github.com/user-attachments/assets/662d7909-4580-4594-9c50-893117439b40)
+
+## Budgets
+
+![Budgets](https://github.com/user-attachments/assets/5c66c667-140e-4606-a818-cb6aafd5cbc7)
+
+---
+
+## Monthly Limits
+
+![Monthly Limits](https://github.com/user-attachments/assets/59affd5e-7321-4556-902f-9bd20e4dceb6)
+
+## Earn & Learn
+
+![Earn and Learn](https://github.com/user-attachments/assets/cf34f46b-d024-4d1c-af76-3280085dc436)
+
+---
+
+## 👤 Profile
+
+![Profile](https://github.com/user-attachments/assets/00da3fea-cc2c-45a2-8d7e-b1c507de9003)
+
+
+
+
+## Pocket Guidance
 What the App Does and Who It Is For
 
 Pocket Guidance is a personal finance management application designed to help users track their income, expenses, budgets, savings goals, and overall financial wellbeing.
