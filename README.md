@@ -6,7 +6,9 @@ A personal budgeting Android app built with Kotlin, Room DB, and MPAndroidChart.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![CI](https://github.com/tirisanomolaolwe-byte/Pocket-Guidance-2/actions/workflows/android_ci.yml/badge.svg)
 
----
+ **[Watch the full app demo on YouTube](https://youtu.be/v5Hv45jkJYw)**
+
+ ![Login and Signup](https://github.com/user-attachments/assets/8499aed8-985a-4d62-80f2-f811ee3d81ad)
 
 Pocket Guidance
 What the App Does and Who It Is For
@@ -155,7 +157,7 @@ This feature helps users understand their financial habits and encourages better
 ## Tech Stack
 
 | Layer | Technology |
-|-------|-----------|
+
 | Language | Kotlin |
 | UI | XML layouts + ViewBinding |
 | Database | Room (SQLite) |
