@@ -1,4 +1,0 @@
-#Mon Jun 15 23:45:54 SAST 2026
-base.0=C\:\\Users\\DELL\\Downloads\\PocketGuidanceAndroid\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
-path.0=0/classes.dex
-renamed.0=classes.dex
